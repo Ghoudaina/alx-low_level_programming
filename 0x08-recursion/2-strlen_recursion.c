@@ -2,7 +2,7 @@
 
 /**
  * _strlen_recursion - Counts the length of a string .
- * @s: the string to be counted 
+ * @s: the string to be counted.
  *
  * Return: integer value
  */
